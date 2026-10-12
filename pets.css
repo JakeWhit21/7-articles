@@ -1,0 +1,23 @@
+html {
+    background-color: rgb(240, 240, 240);
+    font-family: "Solway", serif;
+}
+
+.nav-color {
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+ul {
+    margin: 0px;
+}
+
+.main {
+    background-color:rgb(255, 116, 195);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    padding: 10px;
+}

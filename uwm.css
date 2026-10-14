@@ -1,0 +1,40 @@
+html {
+    background-color: azure;
+}
+
+a {
+    color: black;
+}
+
+footer {
+    background-color: aquamarine;
+}
+
+#aside-content {
+    color: purple;
+}
+
+.site-header {
+    background-color: plum;
+    
+}
+
+.wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.site-main {
+    background-color: hsl(60, 94%, 65%);
+}
+
+.article-section {
+    background-color: rgb(255, 222, 60);
+}
+
+.callout {
+    background-color: rgb(255, 208, 203);
+}

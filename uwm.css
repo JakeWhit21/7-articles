@@ -1,8 +1,9 @@
 html {
     background-color: azure;
+    font-family: "Aleo", sans-serif;
 }
 
-a {
+nav a {
     color: black;
 }
 
@@ -28,13 +29,23 @@ footer {
 }
 
 .site-main {
-    background-color: hsl(60, 94%, 65%);
+    background-color: hsl(60, 100%, 75%);
 }
 
 .article-section {
     background-color: rgb(255, 222, 60);
+    padding: 10px;
+    margin: 10px;
 }
 
 .callout {
     background-color: rgb(255, 208, 203);
+}
+
+.footer-socials a {
+    color: black;
+}
+
+.footer-line {
+    border: 2px solid black;
 }
